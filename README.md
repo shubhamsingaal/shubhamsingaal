@@ -65,7 +65,7 @@ Welcome to my GitHub! I am Shubham Kumar, a final-year undergraduate at NIT Durg
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect With Me 👨‍🚀
 [📧 Email](mailto:shubhamsingaal@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/shubhamsingaal/) | [🌐 Portfolio](https://shubhamsingaal.vercel.app/)  
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsingaal&show_icons=true&theme=radical)  
