@@ -9,7 +9,7 @@ Welcome to my GitHub! I am Shubham Kumar, a final-year undergraduate at NIT Durg
 ## 📖 About Me
 - 🎓 **Education**: Bachelor of Technology in Metallurgical and Materials Engineering (2025)  
 - 🌐 **Experience**: Proficient in developing dynamic web applications, implementing SEO strategies, and leveraging AI tools for development.  
-- 🛠️ **Skills**: Expertise in React.js, Node.js, Firebase, Tailwind CSS, and Python with a strong foundation in Data Structures, Algorithms, and System Design.  
+- 🛠️ **Skills**: Expertise in React.js, Node.js, Firebase, Tailwind CSS, and C++ with a strong foundation in Data Structures, Algorithms, and System Design.  
 
 ---
 
