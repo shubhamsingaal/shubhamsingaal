@@ -2,7 +2,7 @@
 
 🌟 **Software Developer | Frontend Enthusiast | AI Enthusiast**
 
-Welcome to my GitHub! I am Shubham Kumar, a final-year undergraduate at NIT Durgapur, passionate about building scalable and dynamic web applications. With hands-on experience in full-stack development and AI-driven tools, I thrive on solving problems efficiently and crafting user-centric solutions. 
+I am Shubham Kumar, a final-year undergraduate at NIT Durgapur, passionate about building scalable and dynamic web applications. With hands-on experience in full-stack development and AI-driven tools, I thrive on solving problems efficiently and crafting user-centric solutions. 
 
 ---
 
@@ -20,12 +20,6 @@ Welcome to my GitHub! I am Shubham Kumar, a final-year undergraduate at NIT Durg
 - Developed interactive and mobile-friendly UI components, resulting in a 40% increase in user engagement.  
 - Led backend integration to ensure seamless functionality, collaborating with a team of developers.  
 - Debugged and optimized codebase, enhancing application performance and reducing downtime.  
-
-### **AI Prompt Engineering Intern**  
-**[Coditioning](https://www.coditioning.com/)** | Remote, UK (March 2024 - July 2024)  
-- Created crash courses on Computer Networks, DBMS, and System Design, increasing subscriptions by 30%.  
-- Developed gamified DSA challenges and verified correctness through local testing.  
-- Researched and implemented content gamification strategies to improve user engagement.  
 
 ### **Web & Tech Head**  
 **[ISTE Students’ Chapter NIT Durgapur](https://www.istenitdgp.com/)** (Feb 2022 - Present)  
