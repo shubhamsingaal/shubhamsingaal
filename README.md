@@ -4,5 +4,5 @@ I build products at the intersection of technology, data, and user experience.
 
 - Product-focused engineer  
 - Interested in growth, analytics, and scalable systems  
-- Currently working at JSW Steel  
+- Currently working at JSW Steel Ltd.
 
